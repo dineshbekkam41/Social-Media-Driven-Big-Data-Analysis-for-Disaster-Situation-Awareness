@@ -1,0 +1,2 @@
+# Social-Media-Driven-Big-Data-Analysis-for-Disaster-Situation-Awareness
+A Big Data and AI-driven framework for disaster situation awareness using social media analytics.  Implements distributed processing with Apache Spark, Hadoop HDFS, NLP, and machine learning  (Random Forest, DBSCAN, Sentiment Analysis) to classify disaster-related tweets, detect hotspots,  and predict disaster severity in real time.
